@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "LalehZar";
+    src: url("./../Lalezar-Font/TTF/Lalezar-Regular.ttf")
+}
+
+.p1 {
+    display: flex;
+    justify-content: center;
+}
+
+.p1 p {
+    font-family: "LalehZar";
+    font-size: 24px;
+}
+
+.p2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.p2 p {
+    font-family: "LalehZar";
+    font-size: 24px;
+}
+
+.p3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.p3 p {
+    font-family: "LalehZar";
+    font-size: 24px;
+}
+
+.p4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.p4 p {
+    font-family: "LalehZar";
+    font-size: 24px;
+}
+
+.Event {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+    border-radius: 18px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+}
+
+.Event img {
+    border-radius: 15px;
+    border: 2px solid red
+}
+
+.Phone {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid purple;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.Phone img {
+    border-radius: 10px;
+    border: 3px solid cyan;
+    width: 200px;
+    height: 200px;
+}
+
+.Phone p {
+    display: flex;
+    justify-content: center;
+    font-family: "LalehZar";
+    font-size: 24px;
+}
+
+.Radif1 {
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid orange;
+    border-radius: 17px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Radif1 img {
+    border: 1px solid red;
+    border-radius: 25px;
+}
+
+.Radif1 p {
+    display: flex;
+    justify-content: center;
+    font-family: "LalehZar";
+    font-size: 18px;
+
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid brown;
+    border-radius: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.icons svg {
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(0, 132, 255);
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    width: 50px;
+    height:50px;
+}
+
+.icons div p {
+    display: flex;
+    justify-content: center;
+    font-family: "LalehZar";
+    font-size: 18px;
+}
